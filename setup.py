@@ -4,8 +4,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="earthquake-bmkg",
-    version="0.1",
+    name="earthquake-indonesia-bmkg-2023",
+    version="0.2",
     author="Rendra Faris",
     author_email="farisrendra@gmail.com",
     description="This package provides the latest earthquake data in Indonesia from BMKG",
